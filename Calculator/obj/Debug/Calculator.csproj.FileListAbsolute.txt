@@ -19,3 +19,10 @@ D:\Coding\C#Workspace\Git-Hub\Calculator\Calculator\obj\Debug\Calculator.csprojA
 D:\Coding\C#Workspace\Git-Hub\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 D:\Coding\C#Workspace\Git-Hub\Calculator\Calculator\obj\Debug\Calculator.exe
 D:\Coding\C#Workspace\Git-Hub\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Coding\Git-Hub\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Coding\Git-Hub\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Coding\Git-Hub\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Coding\Git-Hub\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Coding\Git-Hub\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Coding\Git-Hub\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Coding\Git-Hub\Calculator\Calculator\obj\Debug\Calculator.pdb

@@ -112,6 +112,10 @@ namespace Calculator
 
         public string Calculations()
         {
+            if (_number.Count==0)
+            {
+                return "";
+            }
             double answer = _number.Dequeue();
             while (_number.Count != 0 && _symbol.Count != 0)
             {
